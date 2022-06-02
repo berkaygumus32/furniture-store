@@ -983,7 +983,8 @@ body {
     }
 
     .day-offer {
-         grid-column-gap: 1.4rem;n
+         grid-column-gap: 1.4rem;
+    }     
 
     .gallery {
         grid-gap: 1rem;
